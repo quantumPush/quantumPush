@@ -8,8 +8,6 @@ Power BI Enthusiast
 - Java
 - HTML
 - CSS
-- SQL (Basic)
-- MongoDB (Basic)
 - Power BI
 
  Projects
